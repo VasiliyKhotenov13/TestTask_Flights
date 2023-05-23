@@ -29,8 +29,3 @@
 вылетом следующего за ним)
 
 ___
-<div id="badges" align="center">
-<a
-href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&pause=1000&width=435&lines=Thank+you+for+your+attention!" alt="Typing SVG" />
-</a>
-</div>
